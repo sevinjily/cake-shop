@@ -22,9 +22,9 @@ export default function Header() {
         <div className="flex items-center gap-6">
           <ul className="flex w-full text-pink-600 font-bold items-center justify-around font-quicksand">
             <li className="px-4 font-dancing ">Home</li>
-            <li className="px-4 font-poppins">Blog</li>
-            <li className="px-4 font-poppins">Prices</li>
-            <li className="px-4 font-poppins">About Us</li>
+            <li className="px-4 ">Blog</li>
+            <li className="px-4 ">Prices</li>
+            <li className="px-4 ">About Us</li>
             <li className="px-4 ">Shop</li>
             <li className="px-4">Contact Us</li>
           </ul>
