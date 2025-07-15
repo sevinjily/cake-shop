@@ -14,7 +14,7 @@ export default function Header() {
   return (
     <header className="bg-pink-300 text-white text-xl">
       <div className="flex justify-between items-center px-30 py-4 border-pink-100 ">
-        {/*Left part*/}
+        {/*Left part*/} 
         <div className="flex items-center gap-6 ">
           <div>KamaCake</div>
          
